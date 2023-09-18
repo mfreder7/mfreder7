@@ -1,13 +1,8 @@
-# 👋, I'm Michael Frederic ---  |<a href="https://www.linkedin.com/in/michael-frederic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/michael-frederic/" height="30" width="40" /></a>|
+# 👋, I'm Michael Frederic 
 
 ### Software Engineer - driven by curiosity
 
-- 🔭 I’m currently working on [fitshare.](https://fitshare.me/home)
-- 🤝 I’m looking for help with [fitshare.](https://fitshare.me/home)
-- 👨‍💻 All of my projects are available at [https://mfreder7.dev](https://mfreder7.dev)
-- 💬 Ask me about **React, Angular, Svelte**
 - 📫 How to reach me: **michael.c.frederic@gmail.com**
-- ⚡ Fun fact: **Polar bear hair is hollow.**
 
 ## 🧰 Languages and Tools: 
 ### Frontend:
