@@ -13,7 +13,7 @@ Welcome to my GitHub! I specialize in creating scalable, intuitive, and cross-pl
 I’m passionate about building modern, scalable applications. Here’s my go-to stack for most projects:  
 - **Backend**: [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25"/> Node.js](https://nodejs.org) + [<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="25" height="25"/> Express](https://expressjs.com)  
 - **Frontend**: [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="sveltekit" width="25" height="25"/> SvelteKit](https://kit.svelte.dev)  
-- **Database**: [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="25" height="25"/> MongoDB](https://www.mongodb.com/)
+- **Database**: [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" height="25"/> PostgreSQL](https://www.postgresql.org)
 
 ---
 
