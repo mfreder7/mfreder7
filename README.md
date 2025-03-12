@@ -4,7 +4,6 @@
 Welcome to my GitHub! I specialize in creating scalable, intuitive, and cross-platform solutions with a focus on modern web development and backend systems.
 
 🌐 Check out my portfolio: [michael-frederic.com](https://michael-frederic.com)  
-📫 Want to get in touch? Email me at: **michael.c.frederic@gmail.com**
 
 ---
 
