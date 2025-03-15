@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Michael Frederic**
 
-### 🚀 **Software Engineer | Entrepreneur | Innovator**
+### 🚀 **Software Engineer | Innovator**
 Driven by curiosity and a passion for innovation, I specialize in building intuitive, scalable, and performant applications, from sleek user interfaces to robust backend systems.
 
 🌐 **Explore my portfolio:** [michael-frederic.com](https://michael-frederic.com)
